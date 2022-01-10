@@ -1,12 +1,11 @@
-
+import Counter from './components/Counter'
 import './App.css'
-import Layout from './views/Layout/Layout'
-import Home from './views/Home/Home'
+
 
 
 function App() {
 
-  return 
+  return <Counter />
 }
 
 export default App
